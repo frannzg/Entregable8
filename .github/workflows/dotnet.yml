@@ -28,4 +28,4 @@ jobs:
       uses: peaceiris/actions-gh-pages@v4
       with:
           github_token: ${{ secrets.API_KEY_ENTREGABLE8 }}
-          publish_dir: ./wwww
+          publish_dir: ./wwwwroot
